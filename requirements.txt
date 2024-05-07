@@ -2,4 +2,4 @@ flask
 requests
 python-instagram
 rasa
-pg8000
+aiopg
